@@ -1,0 +1,3 @@
+<template>
+  <second></second>
+</template>
